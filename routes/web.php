@@ -18,3 +18,4 @@ Route::get('/', function () {
 Route::get('/about', 'PagesController@about')->name('about');
 Route::get('/contact', 'PagesController@contact')->name('contact');
 Route::get('/gallery', 'PagesController@gallery')->name('gallery');
+Route::get('/blog', 'PagesController@blog')->name('blog');

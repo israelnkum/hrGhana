@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-md-4 xs-padding">
                         <div class="profile-wrap">
-                            <img class="profile" src="public/img/profile.jpg" alt="profile">
+                            <img class="profile" src="img/profile.jpg" alt="profile">
                             <h3>Ernestina Baaba Allotey <span>CEO & Founder of HR Ghana.</span></h3>
                             {{--<img src="img/sign.png" alt="sign">--}}
                         </div>
@@ -104,7 +104,7 @@
             <div id="event-carousel" class="events-wrap owl-Carousel">
                 <div class="events-item">
                     <div class="event-thumb">
-                        <img src="{{asset('public/img/events-1.jpg')}}" alt="events">
+                        <img src="{{asset('img/events-1.jpg')}}" alt="events">
                     </div>
                     <div class="event-details">
                         <h3>Let's talk about the poor children education.</h3>
@@ -120,18 +120,18 @@
                 </div><!-- Event-1 -->
                 <div class="events-item">
                     <div class="event-thumb">
-                        <img src="{{asset('public/img/events-2.jpg')}}" alt="events">
+                        <img src="{{asset('img/events-2.jpg')}}" alt="events">
                     </div>
                     <div class="event-details">
-                        <h3>Insure clean water to everyone in Africa.</h3>
+                        <h3>Elevation Career Fair</h3>
                         <div class="event-info">
                             {{--<p><i class="ti-calendar"></i>Started On: 12:00 PM.</p>--}}
                             {{--<p><i class="ti-location-pin"></i>Grand Mahal, Dubai 2100.</p>--}}
                         </div>
                         <p>
-                            Ensuring universal access to safe and affordable drinking water for all by 2030 requires we invest in adequate infrastructure, provide sanitation facilities and encourage hygiene at every level. Protecting and restoring water-related ecosystems such as forests, mountains, wetlands and rivers is essential if we are to mitigate water scarcity.
+                            The elevation career fair is an inspiring project that brings children; teens and young adults together to offer them needed training and guidelines on career choices, career path, career progression and contemporary issues for evaluative skills that add value for development in view of global trends.
                         </p>
-                        {{--<a href="#" class="default-btn">Read More</a>--}}
+                        <a href="#" class="default-btn">Read More</a>
                     </div>
                 </div><!-- Event-2 -->
 

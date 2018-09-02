@@ -18,4 +18,7 @@ class PagesController extends Controller
     public function gallery(){
         return view('pages.gallery');
     }
+    public function blog(){
+        return view('pages.blog');
+    }
 }
