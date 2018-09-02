@@ -42,8 +42,8 @@
                         <li class="{{ Request::is('about') ? 'active' : '' }}">
                             <a href="{{route('about')}}">About</a>
                         </li>
-                        <li class="{{ Request::is('gallery') ? 'active' : '' }}">
-                            <a href="{{route('gallery')}}">Gallery</a>
+                        <li class="{{ Request::is('gallery1') ? 'active' : '' }}">
+                            <a href="{{route('gallery1')}}">Gallery</a>
                         </li>
                         <li class="{{ Request::is('contact') ? 'active' : '' }}">
                             <a href="{{route('contact')}}">Contact</a>
